@@ -1,1 +1,1 @@
-# coffee-machine-code
+Hello! I'm a self-taught Python developer with a passion for coding. Currently, I'm working on a coffee machine project that simulates the process of making different types of coffee, managing resources, and handling transactions. This project helps me improve my skills in Python and programming logic. I'm excited about this project and open to feedback and suggestions. Connect with me on LinkedIn: Kedharish.
